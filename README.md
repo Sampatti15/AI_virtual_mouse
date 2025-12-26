@@ -16,15 +16,15 @@
 - Smooth and real-time performance
 
 # 🔹 Technologies Used
-1.Python    
+1. Python    
 
-2.OpenCV
+2. OpenCV
 
-3.MediaPipe
+3. MediaPipe
 
-4.Autopy
+4. Autopy
 
-5.PyAutoGUI
+5. PyAutoGUI
 
 # 🔹 How It Works
 
